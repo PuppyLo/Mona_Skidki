@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Llj0ftVL/Zu+GbErRpU+9sQGeYAYQ5AIDhdGVfBZ5UZw8Or5pIsvyUguQF98kH54YazBRLqHB8r1cpcAIFDhyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PuppyLo\\Documents\\GitHub\\Mona_Skidki\\Mona_Skidki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PuppyLo\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\PuppyLo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\PuppyLo\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\PuppyLo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\PuppyLo\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\PuppyLo\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
